@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Material design quiz</string>
+
+    <string name="intro">Introduction</string>
+    <string name="about_quiz">This quiz is to see how much you really know about Google’s Material Design</string>
+
+    <string name="Q1">Question 1 : Principles</string>
+    <string name="Q1question">Which of the following is not a GMD principle?</string>
+    <string name="Q1answer1">Material is the Metaphor</string>
+    <string name="Q1answer2">Motion provides material</string>
+    <string name="Q1answer3">Bold, graphic, intentional</string>
+    <string name="Q1answer4">Motion provides meaning</string>
+
+    <string name="Q2">Question 2 : Style - Color</string>
+    <string name="Q2question">What is the hex code for A200 Cyan?</string>
+
+    <string name="Q3">Question 3 : Style - Color</string>
+    <string name="Q3question">What color should be the most widely used across al screens and components?</string>
+    <string name="Q3answer">One word</string>
+
+    <string name="Q4">Question 4 : Style - Color</string>
+    <string name="Q4question">Check all the boxes that show correct use of the Accent Color</string>
+
+    <string name="Q5">Question 5 : Style - Typography</string>
+    <string name="Q5question">What size font should the App bar be?</string>
+    <string name="Q5answer1">20sp</string>
+    <string name="Q5answer2">22sp</string>
+    <string name="Q5answer3">20px</string>
+    <string name="Q5answer4">22px</string>
+
+    <string name="Q6">Question 6 : Style - Typography</string>
+    <string name="Q6question">What is the name of the Typeface that has been refined extensively to work across the wider set of supported platforms?</string>
+    <string name="Q6answer">typeface</string>
+
+    <string name="Q7">Question 7 : Layout - Unit &amp; measurements</string>
+    <string name="Q7question">Which units can scale to uniform dimensions on any screen</string>
+    <string name="Q7answer1">Density pixels</string>
+    <string name="Q7answer2">Density-independent pixels</string>
+    <string name="Q7answer3">Scaleable pixels</string>
+
+    <string name="Q8">Question 8 : Style - Metrics &amp; Keylines</string>
+    <string name="Q8question">How much left and right margins should be left from the screen edge?</string>
+    <string name="Q8answer1">16dp</string>
+    <string name="Q8answer2">22dp</string>
+    <string name="Q8answer3">18dp</string>
+    <string name="Q8answer4">14dp</string>
+
+
+    <string name="A200">64FFDA</string>
+    <string name="primary">PRIMARY</string>
+    <string name="typeface">ROBOTO</string>
+    <string name="score_is">Your score is</string>
+    <string name="from_8">from 8</string>
+
+</resources>
